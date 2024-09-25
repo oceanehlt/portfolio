@@ -8,3 +8,5 @@ Je suis Hillairet Océane, passionnée par l'analyse de données et le machine l
 ## Projets
 - **Projet 1** : Description du projet 1.
 - **Projet 2** : Description du projet 2.
+
+- [Contactez-moi](contact.md)
