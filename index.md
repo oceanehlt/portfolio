@@ -1,4 +1,7 @@
-# Bienvenue sur mon Portfolio de Data Scientist
+# Bienvenue sur mon portfolio
+
+Voici quelques projets :
+- [README.md](README.md)
 
 Je suis Hillairet Océnae, passionnée par l'analyse de données et le machine learning. Voici quelques-uns de mes projets.
 
